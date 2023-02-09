@@ -1,6 +1,6 @@
 # 👋 Hi there, my name is Biel Fernández.
 
-### I'm an Android Develover ❤️ who builds robust, performant, and elegant Apps. I'm also fascinated by low-level software and because of that I've done my fair share of projects in a variety of languages in the past. Nowadays, and because of my job role as an Android developer, I pretty much only use Kotlin. I'm currently based in Barcelona, Spain, where I'm a member of the Android Team at O2O - MO2O /Digital Business & Transformation. When I'm not working / slacking / hanging out with friends, I try to find time to work on open source and side-projects.
+### I'm an Android Develover ❤️ who builds robust, performant, and elegant Apps. I'm also fascinated by low-level software and because of that I've done my fair share of projects in a variety of languages in the past. Nowadays, and because of my job role as an Android developer, I pretty much only use Kotlin. I'm currently based in Barcelona, Spain, where I'm a member of the Android Team at O2O - One2One Digital Strategy. When I'm not working / slacking / hanging out with friends, I try to find time to work on open source and side-projects.
 
 - 🔭 You can see my professional profile on [LinkedIn](https://www.linkedin.com/in/bielfernandezb)
 
